@@ -1,0 +1,16 @@
+C:\Users\mish\Documents\GitHub\tutorial-kn-20-21\KNTest\KNTest\bin\Debug\net7.0-windows\KNTest.exe
+C:\Users\mish\Documents\GitHub\tutorial-kn-20-21\KNTest\KNTest\bin\Debug\net7.0-windows\KNTest.deps.json
+C:\Users\mish\Documents\GitHub\tutorial-kn-20-21\KNTest\KNTest\bin\Debug\net7.0-windows\KNTest.runtimeconfig.json
+C:\Users\mish\Documents\GitHub\tutorial-kn-20-21\KNTest\KNTest\bin\Debug\net7.0-windows\KNTest.dll
+C:\Users\mish\Documents\GitHub\tutorial-kn-20-21\KNTest\KNTest\bin\Debug\net7.0-windows\KNTest.pdb
+C:\Users\mish\Documents\GitHub\tutorial-kn-20-21\KNTest\KNTest\obj\Debug\net7.0-windows\KNTest.Form1.resources
+C:\Users\mish\Documents\GitHub\tutorial-kn-20-21\KNTest\KNTest\obj\Debug\net7.0-windows\KNTest.csproj.GenerateResource.cache
+C:\Users\mish\Documents\GitHub\tutorial-kn-20-21\KNTest\KNTest\obj\Debug\net7.0-windows\KNTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mish\Documents\GitHub\tutorial-kn-20-21\KNTest\KNTest\obj\Debug\net7.0-windows\KNTest.AssemblyInfoInputs.cache
+C:\Users\mish\Documents\GitHub\tutorial-kn-20-21\KNTest\KNTest\obj\Debug\net7.0-windows\KNTest.AssemblyInfo.cs
+C:\Users\mish\Documents\GitHub\tutorial-kn-20-21\KNTest\KNTest\obj\Debug\net7.0-windows\KNTest.csproj.CoreCompileInputs.cache
+C:\Users\mish\Documents\GitHub\tutorial-kn-20-21\KNTest\KNTest\obj\Debug\net7.0-windows\KNTest.dll
+C:\Users\mish\Documents\GitHub\tutorial-kn-20-21\KNTest\KNTest\obj\Debug\net7.0-windows\refint\KNTest.dll
+C:\Users\mish\Documents\GitHub\tutorial-kn-20-21\KNTest\KNTest\obj\Debug\net7.0-windows\KNTest.pdb
+C:\Users\mish\Documents\GitHub\tutorial-kn-20-21\KNTest\KNTest\obj\Debug\net7.0-windows\KNTest.genruntimeconfig.cache
+C:\Users\mish\Documents\GitHub\tutorial-kn-20-21\KNTest\KNTest\obj\Debug\net7.0-windows\ref\KNTest.dll
